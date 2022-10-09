@@ -32,6 +32,8 @@ O que foi que eu aprendi aqui?
 ## Aula 6
 
 O que foi que eu aprendi aqui?
+aprendi a usar as tag e usar alias 
+
 
 ## Aula 7
 
